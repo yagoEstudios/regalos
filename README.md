@@ -36,3 +36,5 @@
 
 ### Otros 
 - Tabla de skate (por ahora no)
+
+[Github](https://github.com/yagoEstudios/regalos/blob/main/README.md)
