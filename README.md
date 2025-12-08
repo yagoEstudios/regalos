@@ -13,7 +13,6 @@
 - Cajón flamenco (puede ser económico / de iniciación)
 - [Valeton GP-5](https://www.thomann.es/valeton_gp_5.html)  Puedo ver que tal con este y si me mola me compro el otro
 - [VALETON GP200](https://www.thomann.es/valeton_gp_200.htm)
-- Keytar (cualquier modelo asequible)
 - ErgoPlay Johannes Tappert (apoyabrazos profesional para guitarra clásica)  
   [Thomann](https://www.thomann.es/ergoplay_modell_johannes_tappert.htm#bewertung)
 
