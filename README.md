@@ -11,7 +11,7 @@
   [Enlace Amazon](https://www.amazon.es/DUNLOP-P%C3%BAas-Nylon-Jazz-Saco/dp/B003N0VQQ6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.pDKAqqR5LaP49dJBZfYCQvaVHnkzoTUBC2R_rdc-L1EFcXkHAWs7ssUguA-302GsxYI5APLx3J2PDbJWc-Girs11SNUaZyZiTLPpkKUBfB9kgNs7Yrfje2bkAbQcZQHSdXFhIhgWSwrSxucZbcrRI5wF46R54ff-YVyUdQGtWeLqpfTkw_Yr5KmCvK_9JqAHcwYAk7lbAxSZWepFVRWpoR3_TrZpmR4gJugGgMiRuakAvvTrdr7m8JK93bIklN5bZG1QoXgd6jYP2DVOi1lJF-I5-yGvlfe5gWb49wJIJsc.Dyyfa5dwgK3pa9HbEZmVSBPAjgnCRzdkV1KQbL8N24U&dib_tag=se&keywords=jazz%2Biii%2Bxl&qid=1765197352&sr=8-1&th=1)
 - Tapones de oídos para ensayos (que atenúen pero no aíslen del todo, tipo filtros para músicos)
 - Cajón flamenco (puede ser económico / de iniciación)
-- [Valeton GP-5](https://www.thomann.es/valeton_gp_5.html)  Puedo ver que tal con este y si me mola me compro el otro
+- [Valeton GP-5](https://www.thomann.es/valeton_gp_5.htm)  Puedo ver que tal con este y si me mola me compro el otro
 - [VALETON GP200](https://www.thomann.es/valeton_gp_200.htm)
 - ErgoPlay Johannes Tappert (apoyabrazos profesional para guitarra clásica)  
   [Thomann](https://www.thomann.es/ergoplay_modell_johannes_tappert.htm#bewertung)
