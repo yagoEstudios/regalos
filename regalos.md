@@ -1,4 +1,4 @@
-# Lista de Regalos (Navidad / Cumple / etc.)
+# Lista de Regalos 
 
 ### Música y accesorios de guitarra/piano
 - POV cámara para grabarme tocando el piano o soporte/trípode para sujetar el móvil
