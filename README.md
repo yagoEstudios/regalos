@@ -2,7 +2,9 @@
 
 ### Música y accesorios de guitarra/piano
 - POV cámara para grabarme tocando el piano o soporte/trípode para sujetar el móvil
-- Cascos de cable Apple 
+- Cascos de cable Apple
+- cuerdas guitarra electrica elixir 9 42
+  [Amazon](https://www.amazon.es/el%C3%A9ctrica-revestimiento-referencia-16540-Elixir/dp/B01512W3OM/ref=asc_df_B01512W3OM?mcid=c4a3a7c305aa33cd8068d5a8537ad462&tag=googshopes-21&linkCode=df0&hvadid=699771153015&hvpos=&hvnetw=g&hvrand=13783014904655818525&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061052&hvtargid=pla-381639578068&hvocijid=13783014904655818525-B01512W3OM-&hvexpln=0&th=1)
 - Cejilla ajustable  
   Ejemplo: [Amazon](https://www.amazon.es/Rayzm-Extractor-Pasadores-Guitarras-Electricas/dp/B01M1L9430/ref=sxin_15_pa_sp_search_thematic_sspa?adgrpid=78232424359&content-id=amzn1.sym.16acdeee-bee7-4890-aa68-b2002647f571%3Aamzn1.sym.16acdeee-bee7-4890-aa68-b2002647f571&cv_ct_cx=cejilla%2Bajustable&hvadid=712036380633&hvdev=c&hvexpln=0&hvlocphy=9061052&hvnetw=g&hvocijid=15616780402561345819--&hvqmt=e&hvrand=15616780402561345819&hvtargid=kwd-870215219698&hydadcr=17450_2279089&keywords=cejilla%2Bajustable&mcid=6bd5c3b7ae343bb4ac23c17c468c6389&pd_rd_i=B01M1L9430&pd_rd_r=49a5bc91-09ce-4b94-a05e-cdd7d8c755b4&pd_rd_w=iCspF&pd_rd_wg=dZb3P&pf_rd_p=16acdeee-bee7-4890-aa68-b2002647f571&pf_rd_r=Y5QQDPRPP01Q7ACN9FQE&qid=1765194961&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-4-dddeab33-7095-47b2-8f68-ab1390142356-spons&aref=z05Al5wRzA&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
 - Púas Dunlop Jazz III XL (bolsa)  
