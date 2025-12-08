@@ -16,7 +16,6 @@
   [Thomann](https://www.thomann.es/ergoplay_modell_johannes_tappert.htm#bewertung)
 
 ### Electrónica 
-- ESP32 S3
 - ESP32 con cámara  
   Ejemplo: [SunFounder ESP32-CAM Kit](https://www.amazon.es/SunFounder-Kit-Desarrollo-Recargable-Compatible/dp/B0D7ZY6ZS8/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=BD5N76BMYSPX&dib=eyJ2IjoiMSJ9.FJFbrJfJMwXTGjkQaI4p_cfxlg0nGUcSaNZxInmOxZ0ZO-NH0npXiSO5o_nccADqAc6X0Sq9b-oIveNrmu_QPM5hKz9R3cYpPwIxC2BJTxnOj5yO-Pmi5uMt0oxYFsi04DlK-lFtOJlTuD3TZi2h3iP3nJ45Uv1ctInUIdBnkoV1bZN2G4-gPRVeajAkvSVIKNU29IL8MLMZfs1Ldf7IAda8wC-NtzsdbQnTRIMMeTel_EbLZCo91WMi3S7DxQiNSyS405S9fhoAUb4Pl9tmeaOkrUEbFiG0lvECofoh4RY.FAMbtzaXSQBiNDGp7d2sW9VdCxIVBAgCOG9Rh5r9YnA&dib_tag=se&keywords=esp32+%2B+camera&qid=1765197228&s=electronics&sprefix=esp32+camera%2Celectronics%2C46&sr=1-2)
 - Raspberry Pi 5 8 GB RAM
