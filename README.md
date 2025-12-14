@@ -35,6 +35,7 @@
   Ejemplo: [GRIFEMA lámpara táctil RGB](https://www.amazon.es/GRIFEMA-Recargable-Dormitorio-Temporizador-Habitaci%C3%B3n/dp/B0DQ3B83X5/ref=sxin_15_pa_sp_search_thematic_sspa?content-id=amzn1.sym.f63f2231-3269-4d5f-9cad-1a30362f32b5%3Aamzn1.sym.f63f2231-3269-4d5f-9cad-1a30362f32b5&cv_ct_cx=lampara+led+colores&keywords=lampara+led+colores&pd_rd_i=B0DQ3B83X5&pd_rd_r=c7961dfa-d6e4-469c-9cee-ce6b5857e945&pd_rd_w=D8EIX&pd_rd_wg=LUTWg&pf_rd_p=f63f2231-3269-4d5f-9cad-1a30362f32b5&pf_rd_r=NVA0PPV0HKSKZJ9S521K&qid=1765197495&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-3-e5bd47e4-f7c4-453b-867b-8c113095610c-spons&aref=MomqLWMSMD&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&psc=1)
 
 ### Otros 
+- zapatillas de andar por casa cerradas y calentitas
 - Tabla de skate (por ahora no)
 
 [Github](https://github.com/yagoEstudios/regalos/blob/main/README.md)
