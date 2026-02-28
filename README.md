@@ -1,11 +1,7 @@
 # [Lista de Regalos](https://yagoestudios.github.io/regalos/)
 
 ### Música y accesorios de guitarra/piano
-- POV cámara para grabarme tocando el piano o soporte/trípode para sujetar el móvil
-- Cascos de cable Apple
-- cuerdas guitarra electrica elixir 9 42
-  [Amazon](https://www.amazon.es/el%C3%A9ctrica-revestimiento-referencia-16540-Elixir/dp/B01512W3OM/ref=asc_df_B01512W3OM?mcid=c4a3a7c305aa33cd8068d5a8537ad462&tag=googshopes-21&linkCode=df0&hvadid=699771153015&hvpos=&hvnetw=g&hvrand=13783014904655818525&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9061052&hvtargid=pla-381639578068&hvocijid=13783014904655818525-B01512W3OM-&hvexpln=0&th=1)
-- Cejilla ajustable  
+- [M wave chocolate](https://www.amazon.es/M-VAVE-Chocolate-Plus-Interruptor-inal%C3%A1mbrico/dp/B0DSFWSD9M/ref=sr_1_1?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2W5OOC5IY6OLP&dib=eyJ2IjoiMSJ9.BA70u-UtSyPRyBN3tAip6h4wwHwrezrtk0ZEB3q-Sa-lcrtW7QiqhuRjvtsw3sL6NdMZQnPtIHRR2TxDG-fNk2Yzja57PWqlfUuGpoaCeOvEHUmwR1e2yd0niLwKg2Jp7kvqfz3D8r8kwwThic45fg.WGyyIAgbXXhWiNmNH26Wy4sThnFCZL5Pfg7oUMWfre8&dib_tag=se&keywords=m+wave+chocolate&qid=1772275053&s=musical-instruments&sprefix=m+wave+chocola%2Cmi%2C230&sr=1-1)
   Ejemplo: [Amazon](https://www.amazon.es/Rayzm-Extractor-Pasadores-Guitarras-Electricas/dp/B01M1L9430/ref=sxin_15_pa_sp_search_thematic_sspa?adgrpid=78232424359&content-id=amzn1.sym.16acdeee-bee7-4890-aa68-b2002647f571%3Aamzn1.sym.16acdeee-bee7-4890-aa68-b2002647f571&cv_ct_cx=cejilla%2Bajustable&hvadid=712036380633&hvdev=c&hvexpln=0&hvlocphy=9061052&hvnetw=g&hvocijid=15616780402561345819--&hvqmt=e&hvrand=15616780402561345819&hvtargid=kwd-870215219698&hydadcr=17450_2279089&keywords=cejilla%2Bajustable&mcid=6bd5c3b7ae343bb4ac23c17c468c6389&pd_rd_i=B01M1L9430&pd_rd_r=49a5bc91-09ce-4b94-a05e-cdd7d8c755b4&pd_rd_w=iCspF&pd_rd_wg=dZb3P&pf_rd_p=16acdeee-bee7-4890-aa68-b2002647f571&pf_rd_r=Y5QQDPRPP01Q7ACN9FQE&qid=1765194961&sbo=RZvfv%2F%2FHxDF%2BO5021pAnSA%3D%3D&sr=1-4-dddeab33-7095-47b2-8f68-ab1390142356-spons&aref=z05Al5wRzA&sp_csd=d2lkZ2V0TmFtZT1zcF9zZWFyY2hfdGhlbWF0aWM&th=1)
 - Púas Dunlop Jazz III XL (bolsa)  
   [Enlace Amazon](https://www.amazon.es/DUNLOP-P%C3%BAas-Nylon-Jazz-Saco/dp/B003N0VQQ6/ref=sr_1_1?dib=eyJ2IjoiMSJ9.pDKAqqR5LaP49dJBZfYCQvaVHnkzoTUBC2R_rdc-L1EFcXkHAWs7ssUguA-302GsxYI5APLx3J2PDbJWc-Girs11SNUaZyZiTLPpkKUBfB9kgNs7Yrfje2bkAbQcZQHSdXFhIhgWSwrSxucZbcrRI5wF46R54ff-YVyUdQGtWeLqpfTkw_Yr5KmCvK_9JqAHcwYAk7lbAxSZWepFVRWpoR3_TrZpmR4gJugGgMiRuakAvvTrdr7m8JK93bIklN5bZG1QoXgd6jYP2DVOi1lJF-I5-yGvlfe5gWb49wJIJsc.Dyyfa5dwgK3pa9HbEZmVSBPAjgnCRzdkV1KQbL8N24U&dib_tag=se&keywords=jazz%2Biii%2Bxl&qid=1765197352&sr=8-1&th=1)
@@ -15,7 +11,7 @@
 - [VALETON GP200](https://www.thomann.es/valeton_gp_200.htm)
 - ErgoPlay Johannes Tappert (apoyabrazos profesional para guitarra clásica)  
   [Thomann](https://www.thomann.es/ergoplay_modell_johannes_tappert.htm#bewertung)
-
+- [cable inalambrico guitarra](https://www.unionmusical.es/716305-sistema-wireless-guitarra-y-bajo-xvive-a58-para-instrumentos?srsltid=AfmBOoqcMH3AZrK839UJB34yFMn1wUHzS6V7nmq_dJDnunmhDnPG83T6)
 ### Electrónica 
 - monitor 27 pulgadas 2560 x 1440
 - pen drive 128 gb para las llaves
