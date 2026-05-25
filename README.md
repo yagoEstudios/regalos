@@ -30,5 +30,6 @@
 ### Otros 
 - zapatillas de andar por casa cerradas y calentitas
 - Tabla de skate (por ahora no)
+- Silla como la vuestra del ikea
 
 [Github](https://github.com/yagoEstudios/regalos/blob/main/README.md)
